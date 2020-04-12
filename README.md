@@ -10,4 +10,5 @@ It's a simple CRUD app that list films and information about them. The project h
 [JavaScript](https://github.com/Svetloslav15/Project-Rider/tree/master/JavaScript)</br>
 [PHP](https://github.com/Svetloslav15/Project-Rider/tree/master/PHP)</br>
 
+![Create Page](https://i.imgur.com/pGZHQod.png)
 ![Edit Page](https://i.imgur.com/LJKJPCz.png)
